@@ -4,7 +4,7 @@
 
 ### Torc Robotics – Vehicle Reliability Manager  
 **11/30/2022 – Present**  
-Safely execute testing related to the development of Class 4 autonomous semi-trucks. This work requires strong technical knowledge of Linux operating systems, Docker, autonomous vehicle software, sensor and camera integration, troubleshooting, and field operations. Also support internal and external demonstrations, including communication with senior leaders, partners, and stakeholders.
+Safely execute testing related to the development of Class 8 autonomous semi-trucks. This work requires strong technical knowledge of Linux operating systems, Docker, autonomous vehicle software, sensor and camera integration, troubleshooting, and field operations. Also support internal and external demonstrations, including communication with senior leaders, partners, and stakeholders.
 
 ### Abba Technologies – Project Analyst, NOC Analyst, Field Analyst  
 **6/1/2022 – 11/30/2022**  

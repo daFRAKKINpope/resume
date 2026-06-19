@@ -914,9 +914,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           social = true
           disclaimer = ""
       [languages.en.params.social]
-        GitHub = "https://github.com/daFRAKKINpope/daFRAKKINpope"
+        GitHub = "daFRAKKINpope/daFRAKKINpope"
 #        X = "xxxx"
-        Linkedin = "https://www.linkedin.com/in/travis-templeton-9167a6243/"
+        Linkedin = "travis-templeton-9167a6243/"
 #        Instagram = "xxxx"
 #        Facebook = "xxxx"
 #        Telegram = "xxxx"

@@ -5,7 +5,7 @@ date: 2026-06-13
 
 # About Me
 
-I bring a unique background that spans customer service, commercial transportation, hazardous materials operations, autonomous vehicle testing, technical troubleshooting, and team leadership.
+I bring a diverse background that spans autonomous vehicle testing, technical troubleshooting, team leadership, customer service, commercial transportation, and hazardous materials operations.
 
 I started in customer-facing roles, built a career through hands-on operational work, and advanced into high-responsibility technical environments by proving I could learn quickly, solve difficult problems, and deliver under pressure.
 
